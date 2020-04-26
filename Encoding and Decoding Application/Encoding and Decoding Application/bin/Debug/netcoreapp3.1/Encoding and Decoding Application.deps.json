@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Encoding and Decoding Application/1.0.0": {
+        "runtime": {
+          "Encoding and Decoding Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encoding and Decoding Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
